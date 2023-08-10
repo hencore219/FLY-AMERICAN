@@ -1,0 +1,85 @@
+h3{
+    text-align: center;
+    justify-content: center;
+    color: white;
+}
+
+body{
+    background-image: url(images/lax-california-iphone-rgl3knvy5o597or6.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.button-checkin{
+    padding: 15px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: black;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin-top: 245px;
+    margin-left: 275px;
+}
+
+.button-checkin:hover{
+    background-color: #999;
+}
+
+.button-checkin:active{
+    background-color: #999;
+    box-shadow: 0 5px #999;
+    transform: translateY(4px);
+}
+
+.button-bagtag{
+    padding: 15px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: black;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin-left: 250px;
+}
+
+.button-bagtag:hover{
+    background-color: #999;
+}
+
+.button-bagtag:active{
+    background-color: #999;
+    box-shadow: 0 5px #999;
+    transform: translateY(4px);
+}
+
+.button-exit{
+    padding: 15px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: black;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin-top: 220px;
+}
+
+.button-exit:hover{
+    background-color: red;
+}
+
+.button-exit:active{
+    background-color: red;
+    box-shadow: 0 5px red;
+    transform: translateY(4px);
+}
