@@ -11,6 +11,10 @@ function exit(){
 
 function checkin(){
     alert('checking in');
+    if(confirm("checking in..."))
+    {
+        window.location="\Desktop\FLY AMERICAN";
+    }
 }
 
 function bagtag(){
