@@ -13,11 +13,7 @@ function checkin(){
     alert('checking in');
     if(confirm("checking in..."))
     {
-        window.location="\Desktop\FLY AMERICAN";
+        window.location="http://127.0.0.1:5500/Fly%20american%20check%20in%20page/index.html"
     }
-}
 
-function bagtag(){
-    alert('printing tags');
-    if(confirm(prompt("") + "how many tags?"));
 }
